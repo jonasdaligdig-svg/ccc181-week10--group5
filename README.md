@@ -25,7 +25,7 @@ npm run build        # must finish with no errors before you submit
 | --- | --- |
 | Group number | 5 |
 | Section | A |
-| Repository URL | https://github.com/jonasdaligdig-svg/ccc181-week10-group3.git |
+| Repository URL | https://github.com/jonasdaligdig-svg/ccc181-week10-group5.git |
 
 ## Members (each member fills in their own row in their own commit)
 
